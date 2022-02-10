@@ -1,7 +1,10 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
 h1{
-    color: pink;
-    text-emphasis-color: pink;
+    color: black;
 }
 p{
-    color: pink;
+    color: black;
 }
