@@ -6,3 +6,6 @@ To create a basic website. Demonstrate familiarity with GitHub, understanding of
 Collaborators:
 John Zhen (zhenj579)
 Richard Ngo (RN0529)
+
+Website:
+https://rn0529.github.io/Assignment1/
